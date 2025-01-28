@@ -3,6 +3,42 @@
   "WorkspaceRootPath": "C:\\Users\\ronal\\source\\repos\\Orcamento\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4E5F21CC-73B1-4569-B94E-B33A7D376936}|Orcamento.Domain\\Orcamento.Domain.csproj|c:\\users\\ronal\\source\\repos\\orcamento\\orcamento.domain\\entities\\quotationproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E5F21CC-73B1-4569-B94E-B33A7D376936}|Orcamento.Domain\\Orcamento.Domain.csproj|solutionrelative:orcamento.domain\\entities\\quotationproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5F21CC-73B1-4569-B94E-B33A7D376936}|Orcamento.Domain\\Orcamento.Domain.csproj|c:\\users\\ronal\\source\\repos\\orcamento\\orcamento.domain\\entities\\quotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E5F21CC-73B1-4569-B94E-B33A7D376936}|Orcamento.Domain\\Orcamento.Domain.csproj|solutionrelative:orcamento.domain\\entities\\quotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5F21CC-73B1-4569-B94E-B33A7D376936}|Orcamento.Domain\\Orcamento.Domain.csproj|c:\\users\\ronal\\source\\repos\\orcamento\\orcamento.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E5F21CC-73B1-4569-B94E-B33A7D376936}|Orcamento.Domain\\Orcamento.Domain.csproj|solutionrelative:orcamento.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5F21CC-73B1-4569-B94E-B33A7D376936}|Orcamento.Domain\\Orcamento.Domain.csproj|c:\\users\\ronal\\source\\repos\\orcamento\\orcamento.domain\\entities\\companey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E5F21CC-73B1-4569-B94E-B33A7D376936}|Orcamento.Domain\\Orcamento.Domain.csproj|solutionrelative:orcamento.domain\\entities\\companey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5F21CC-73B1-4569-B94E-B33A7D376936}|Orcamento.Domain\\Orcamento.Domain.csproj|c:\\users\\ronal\\source\\repos\\orcamento\\orcamento.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E5F21CC-73B1-4569-B94E-B33A7D376936}|Orcamento.Domain\\Orcamento.Domain.csproj|solutionrelative:orcamento.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5F21CC-73B1-4569-B94E-B33A7D376936}|Orcamento.Domain\\Orcamento.Domain.csproj|c:\\users\\ronal\\source\\repos\\orcamento\\orcamento.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E5F21CC-73B1-4569-B94E-B33A7D376936}|Orcamento.Domain\\Orcamento.Domain.csproj|solutionrelative:orcamento.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5F21CC-73B1-4569-B94E-B33A7D376936}|Orcamento.Domain\\Orcamento.Domain.csproj|c:\\users\\ronal\\source\\repos\\orcamento\\orcamento.domain\\entities\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E5F21CC-73B1-4569-B94E-B33A7D376936}|Orcamento.Domain\\Orcamento.Domain.csproj|solutionrelative:orcamento.domain\\entities\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5F21CC-73B1-4569-B94E-B33A7D376936}|Orcamento.Domain\\Orcamento.Domain.csproj|c:\\users\\ronal\\source\\repos\\orcamento\\orcamento.domain\\entities\\carrier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E5F21CC-73B1-4569-B94E-B33A7D376936}|Orcamento.Domain\\Orcamento.Domain.csproj|solutionrelative:orcamento.domain\\entities\\carrier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5F21CC-73B1-4569-B94E-B33A7D376936}|Orcamento.Domain\\Orcamento.Domain.csproj|c:\\users\\ronal\\source\\repos\\orcamento\\orcamento.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E5F21CC-73B1-4569-B94E-B33A7D376936}|Orcamento.Domain\\Orcamento.Domain.csproj|solutionrelative:orcamento.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{971A82A3-B4A8-4C85-9B3F-40332376A60B}|Orcamento.API\\Orcamento.API.csproj|c:\\users\\ronal\\source\\repos\\orcamento\\orcamento.api\\orcamento.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{971A82A3-B4A8-4C85-9B3F-40332376A60B}|Orcamento.API\\Orcamento.API.csproj|solutionrelative:orcamento.api\\orcamento.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
@@ -19,7 +55,124 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Orcamento.API",
+              "Title": "QuotationProduct.cs",
+              "DocumentMoniker": "C:\\Users\\ronal\\source\\repos\\Orcamento\\Orcamento.Domain\\Entities\\QuotationProduct.cs",
+              "RelativeDocumentMoniker": "Orcamento.Domain\\Entities\\QuotationProduct.cs",
+              "ToolTip": "C:\\Users\\ronal\\source\\repos\\Orcamento\\Orcamento.Domain\\Entities\\QuotationProduct.cs",
+              "RelativeToolTip": "Orcamento.Domain\\Entities\\QuotationProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T02:31:08.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\ronal\\source\\repos\\Orcamento\\Orcamento.Domain\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "Orcamento.Domain\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\ronal\\source\\repos\\Orcamento\\Orcamento.Domain\\Entities\\Customer.cs",
+              "RelativeToolTip": "Orcamento.Domain\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T02:23:49.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaymentMethod.cs",
+              "DocumentMoniker": "C:\\Users\\ronal\\source\\repos\\Orcamento\\Orcamento.Domain\\Entities\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "Orcamento.Domain\\Entities\\PaymentMethod.cs",
+              "ToolTip": "C:\\Users\\ronal\\source\\repos\\Orcamento\\Orcamento.Domain\\Entities\\PaymentMethod.cs",
+              "RelativeToolTip": "Orcamento.Domain\\Entities\\PaymentMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T02:17:49.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Carrier.cs",
+              "DocumentMoniker": "C:\\Users\\ronal\\source\\repos\\Orcamento\\Orcamento.Domain\\Entities\\Carrier.cs",
+              "RelativeDocumentMoniker": "Orcamento.Domain\\Entities\\Carrier.cs",
+              "ToolTip": "C:\\Users\\ronal\\source\\repos\\Orcamento\\Orcamento.Domain\\Entities\\Carrier.cs",
+              "RelativeToolTip": "Orcamento.Domain\\Entities\\Carrier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T02:16:09.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ronal\\source\\repos\\Orcamento\\Orcamento.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Orcamento.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\ronal\\source\\repos\\Orcamento\\Orcamento.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Orcamento.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T02:10:05.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Quotation.cs",
+              "DocumentMoniker": "C:\\Users\\ronal\\source\\repos\\Orcamento\\Orcamento.Domain\\Entities\\Quotation.cs",
+              "RelativeDocumentMoniker": "Orcamento.Domain\\Entities\\Quotation.cs",
+              "ToolTip": "C:\\Users\\ronal\\source\\repos\\Orcamento\\Orcamento.Domain\\Entities\\Quotation.cs",
+              "RelativeToolTip": "Orcamento.Domain\\Entities\\Quotation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T01:54:28.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ronal\\source\\repos\\Orcamento\\Orcamento.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Orcamento.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\ronal\\source\\repos\\Orcamento\\Orcamento.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Orcamento.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T01:50:31.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Companey.cs",
+              "DocumentMoniker": "C:\\Users\\ronal\\source\\repos\\Orcamento\\Orcamento.Domain\\Entities\\Companey.cs",
+              "RelativeDocumentMoniker": "Orcamento.Domain\\Entities\\Companey.cs",
+              "ToolTip": "C:\\Users\\ronal\\source\\repos\\Orcamento\\Orcamento.Domain\\Entities\\Companey.cs",
+              "RelativeToolTip": "Orcamento.Domain\\Entities\\Companey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T01:46:15.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ronal\\source\\repos\\Orcamento\\Orcamento.Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Orcamento.Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ronal\\source\\repos\\Orcamento\\Orcamento.Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Orcamento.Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T01:43:28.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Orcamento.API.csproj",
               "DocumentMoniker": "C:\\Users\\ronal\\source\\repos\\Orcamento\\Orcamento.API\\Orcamento.API.csproj",
               "RelativeDocumentMoniker": "Orcamento.API\\Orcamento.API.csproj",
               "ToolTip": "C:\\Users\\ronal\\source\\repos\\Orcamento\\Orcamento.API\\Orcamento.API.csproj",
